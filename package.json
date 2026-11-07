@@ -1,0 +1,11 @@
+{
+  "name": "quran-ts-hifz-spaced-scheduler",
+  "version": "1.0.0",
+  "description": "Quran Hifz & Muraja'ah Spaced Repetition SM-2 Optimizer (مجدول حفظ ومراجعة القرآن الكريم بالذاكرة المتباعدة)",
+  "main": "main.ts",
+  "scripts": {
+    "start": "npx ts-node main.ts"
+  },
+  "author": "Mahmoud ElNemer",
+  "license": "MIT"
+}
